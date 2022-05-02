@@ -23,7 +23,7 @@ namespace DocumentPlagiarismChecker
                     break;
                 }
             }
-
+            //Comentario to random
             //The settings can be overwriten by input arguments.
             string[] kv = null;            
             if(s == null) s = new Settings("settings.yaml");
